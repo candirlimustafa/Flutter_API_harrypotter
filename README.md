@@ -1,2 +1,2 @@
-# Flutter_API_harrypotter
- API (Data extraction from ınternet) and Card structure
+# harry_potter_api_flutter
+ staj_proje
